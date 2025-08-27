@@ -9,13 +9,20 @@ This repository contains R code for processing and analyzing microarray data fro
 
 ## 2. Download GEO Data 🌐: 
 `getGEO`: Fetches supplementary files for GSE162412.
+
 Extract Files 📦: Untars the downloaded .tar file to the data/ directory.
+
 Read Microarray Data 📄: Loads .CEL files using ReadAffy.
+
 Normalize Data ⚙️: Applies RMA normalization to raw microarray data.
+
 Extract Expression Values 📈: Converts normalized data to a data frame.
+
 Map Probe IDs to Gene Symbols 🔄:
 Retrieves GEO metadata using getGEO.
+
 Extracts feature data to map probe IDs to gene symbols.
+
 Filters out empty gene symbols and joins with expression data.
 
 ## Save and Clean Data 🧹:
