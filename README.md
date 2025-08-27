@@ -1,6 +1,6 @@
 # Steps for Microarray Gene Expression Data Wrangling  🧬📊
 This repository contains R code for processing and analyzing microarray data from the GEO database (GSE162412), including data retrieval, normalization, and gene symbol mapping. 🔬✨
-Use this [**RICE_Microarray_Data**]([https://youtu.be/OqCPkcRoMF0?si=eTzRoNglRq6dEFWn](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE162412&format=file)) link to download file used in this repository.
+Use this [**RICE_Microarray_Data**]([https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE162412&format=file]) link to download file used in this repository.
 
 ## 1. Load Libraries 📚:
 `affy`: Processes Affymetrix microarray data.
