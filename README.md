@@ -1,4 +1,4 @@
-# Steps for Microarray Gene Expression Data Wrangling  🧬📊
+# Steps for Microarray NCBI Data Wrangling  🧬📊
 This repository contains R code for processing and analyzing microarray data from the GEO database (GSE162412), including data retrieval, normalization, and gene symbol mapping. 🔬✨
 Use this [**RICE_Microarray_Data**](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE162412&format=file)link to download file used in this repository.
 
